@@ -1,0 +1,185 @@
+.container{
+    background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/bd777948-0e8f-4f7f-b0bf-f7e0ee0875e5/cd5b9c59-183b-4b03-9caf-934bc11565b8/IN-en-20200627-popsignuptwoweeks-perspective_alpha_website_small.jpg");
+   
+    /* display: flex;
+    flex-wrap: wrap; */
+  
+/* background: rgba(0, 0, 0, 0.575);
+position: absolute;
+background-image : -webkit-gradient(linear,left bottom,left top,from(rgba(0,0,0,.8)),color-stop(60%,rgba(0,0,0,0)),to(rgba(0,0,0,.8))); */
+}
+
+.header{
+
+}
+.box1 {
+     height: 100px;
+  
+    margin-left: 71px;
+    margin-right: 92px;
+    padding-top: 43px;
+}
+/* .subContainer{
+    
+    position: absolute;
+    left: 290px;
+
+} */
+.svg{
+    width: 10%;
+     fill: red;  
+     padding-bottom: 10px;
+}
+body {
+    /* background-color: #cccccc; */
+
+    /*  */
+   }
+   .button{
+    font-size: 24px;
+    float: right;
+    background-color: red;
+    border-radius: 7px;
+   }
+h1 {
+  
+    margin: auto;
+   font-size: 52px;
+   font-weight: bold;
+   font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+
+}
+h2 {
+   
+    margin: auto;
+   font-size: 29px;
+   /* font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif; */
+
+}
+.email{
+    text-align: center;
+    color: #fff;
+    margin-top: 60px;
+    
+    /* text-align: center;
+    color: #fff;
+    margin: auto;
+   font-size: 52px;
+   font-weight: bold;
+   font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+   padding-top: 13px;   */
+}
+.form{
+    height: 48px;
+    width: 466px;
+
+}
+.box2{
+    margin-top: 16px;
+    /* padding-left: 22px; */
+    text-align: center;
+  
+    margin-top: 35px;
+    margin-left: 39px;
+    margin-right: 39px;
+
+}
+.button2{
+    height: 55px;
+    width: 206px;
+    font-size: 28px;
+    background-color: red;
+
+}
+.emailTitle{
+    color: #fff;
+}
+.container2{
+    height: 500px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 100%;
+    margin: 0 auto;
+}
+.box3{
+   
+    color: #fff;
+    width: 32%;
+    padding: 117px;
+}
+.h1{
+ font-size: 42px;
+}
+.h2{
+    font-size: 1.625rem;
+    font-weight: 400;
+}
+.container3{
+    height: 650px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 100%;
+   
+}
+.image1{
+    width: 50%;
+    display: flex;
+    padding: 30px;
+    flex-wrap: wrap;
+}
+.h11{
+    font-size: 40px;
+    font-weight: 400;
+    margin-top: 22px;
+}
+.h22{
+    font-size: 21px;
+    margin-top: 10px;
+}
+.box4{
+    color: #fff;
+    width: 32%;
+    padding: 68px; 
+}
+.imageStory{
+    position: relative;
+    top: 271px;
+    height: 63px;
+    border: 1px solid grey;
+    border-radius: 20px;
+    width: 48%;
+    padding: 20px;
+    margin-left: 62px;
+    background-color: black;
+}
+.picStory{
+    position: relative;
+    bottom: 8px;
+    width: 52px;
+    height: 83px;
+}
+.story{
+    position: relative;
+    top: 285px;
+    right: 296px;
+    height: 72px;
+    width: 196px;
+    
+}
+.Things{
+    color: white;
+    font-weight: 400;
+    font-size: 19px;
+    padding: 17px;
+}
+.Download{
+    color: blue;
+    position: relative;
+    bottom: 13px;
+    left: 18px;
+   
+}
